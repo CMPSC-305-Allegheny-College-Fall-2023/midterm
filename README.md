@@ -19,7 +19,7 @@ Public school students take an average of about 112 standardized tests between p
 * Address the questions in the file, `writing/queries.md`. Often, your responses will require writing queries to inform, or to fully complete, the question's challenge.
   * Please submit your queries in `writing/queries.md`.
 
-* You are to submit this work to your GitHub repository at least three (3) times. Please enter all code from class as your deliverable. 
+* You are to submit this work to your GitHub repository at least three (3) times. Please enter all code from class as your deliverable.
 
 * Do not discuss the midterm with each other -- you are bound by the honor code.
 
